@@ -1,0 +1,195 @@
+.icon-img {
+  border: 5px solid #000 !important;
+}
+
+.icons-1 {
+  margin: 1rem 1rem;
+}
+
+.icons-1 i {
+  margin-right: 1rem;
+}
+
+/* Navbar */
+
+.navbar {
+  padding: 2rem;
+}
+
+.code-edit {
+  border: 2px solid #000;
+}
+
+.code-edit-2 {
+  text-decoration: underline;
+}
+
+.big-para {
+  font-size: 3.5rem;
+}
+
+.first-sec {
+  background-color: #101624 !important;
+  padding: 2rem 4rem; 
+}
+
+.second-sec {
+  margin-top: 2rem;
+  padding-left: 2rem;
+}
+
+.third-sec {
+  margin-top: 2rem;
+  padding-left: 2rem;
+}
+
+.fourth-sec {
+  margin-top: 2rem;
+  padding-left: 2rem;
+}
+
+h3 {
+  font-weight: bold;
+  font-size: 2rem;
+}
+
+.fifth-sec {
+  margin-top: 2rem;
+}
+
+.fifth-para {
+  background-color: #101624;
+  color: #fff;
+  padding: 1.5rem;
+}
+
+.fifth-img img {
+  width: 25%;
+  height: 10vh;
+}
+
+.card-seventh {
+  border: 2px solid black;
+  margin-top: 2rem;
+  padding: 8%;
+  font-size: 1rem;
+  line-height: 2;
+  width: 50%;
+  
+}
+
+.para-7 {
+  line-height: 2.5;
+}
+
+
+.anchor-1 a {
+  text-decoration: none;
+  color: #000;
+}
+
+.apos-1 {
+  font-size: 2rem;
+  font-weight: bold;
+}
+
+.button-1 {
+  margin-top: 2rem;
+  float: right;
+}
+
+.eight-sec {
+  margin: 5rem 0;
+}
+
+.card-body {
+  height: 25vh;
+}
+
+.para-eight {
+  font-weight: bold;
+  font-size: 3rem;
+}
+
+.card-1 {
+  border-top: 5px solid black;
+}
+
+.card-2 {
+  border-top: 5px solid blue;
+}
+
+.sixth-sec {
+  padding: 5%;
+}
+
+.money {
+  font-weight: bold;
+  font-size: 2rem;
+}
+
+.custom-price {
+  font-weight: bold;
+  font-size: 2rem;
+}
+
+.table-1 {
+  margin-top: 4rem;
+  margin-left: 5rem;
+  margin-right: 5rem;
+}
+
+tr {
+  margin-bottom: 2rem;
+}
+
+tr:nth-child(even) {
+  background-color: #fff;
+}
+
+/* dropdown */
+.drop-2 ul{
+  min-width: 50% !important;
+  width: 54rem;
+  height: 85vh;
+  list-style: none;
+}
+
+.li-drop-1 ul {
+  display: inline-block;
+}
+
+
+.nine-sec {
+  padding: 5rem;
+}
+
+.nine-sec h3 {
+  padding-bottom: 2rem;
+}
+
+.nine-sec {
+  background-color: #101624;
+}
+
+.nine-sec a {
+  color: gold;
+}
+
+
+.ten-sec ul {
+  list-style: none;
+  margin-bottom: 1rem;
+}
+
+.ten-sec .col-lg-2 button {
+  margin-bottom: 1.5rem;
+}
+
+.eleven-sec div i {
+  color: red;
+}
+
+.eleven-sec .last-para {
+  float: right;
+}
